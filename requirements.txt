@@ -1,7 +1,5 @@
 absl-py==1.0.0
 
-anaconda-navigator==2.0.3
-
 databricks-cli==0.16.2
 dcor==0.5.3
 
