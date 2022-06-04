@@ -1,4 +1,4 @@
-openpyxl @ file:///tmp/build/80754af9/openpyxl_1632777717936/work
+openpyxl 
 
 absl-py==1.0.0
 
