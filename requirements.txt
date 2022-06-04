@@ -2,7 +2,7 @@ absl-py==1.0.0
 
 alembic==1.4.1
 altair==4.1.0
-anaconda-navigator==2.0.3 
+
 appdirs==1.4.4
 argh==0.26.2 
 art==5.4
