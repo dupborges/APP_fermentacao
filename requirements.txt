@@ -180,7 +180,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8 
 pycosat==0.6.3
 pycparser==2.20
-pycurl==7.44.1
+
 pydantic==1.8.2
 pydeck==0.7.1 
 pydot==1.4.2 
