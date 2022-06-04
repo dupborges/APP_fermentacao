@@ -44,9 +44,7 @@ colorlog==6.6.0
 colorlover==0.3.0
 commonmark==0.9.1
 comtypes==1.1.10
-conda==4.13.0
-conda-build==3.21.4 
-conda-verify==3.4.2 
+ 
 convertdate==2.3.2 
 cufflinks==0.17.3
 cycler==0.10.0
