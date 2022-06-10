@@ -1,0 +1,4 @@
+name: env_fermentacao
+channels:
+  - defaults
+prefix: C:\Users\eduardo\Anaconda3\envs\env_fermentacao
